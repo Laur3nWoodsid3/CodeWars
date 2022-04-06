@@ -24,3 +24,6 @@ function bmi(weight, height) {
       return "Obese"
     }
   }
+
+
+  //update
